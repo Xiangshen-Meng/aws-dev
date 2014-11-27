@@ -1,0 +1,5 @@
+default['ruby']['user']    = 'ec2-user'
+default['ruby']['group']   = 'ec2-user'
+default['ruby']['version']   = '2.1.4'
+default['ruby']['rbenv_url']   = 'https://github.com/sstephenson/rbenv.git'
+default['ruby']['ruby_build_url']   = 'https://github.com/sstephenson/ruby-build.git'
